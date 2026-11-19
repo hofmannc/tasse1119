@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Wie lautet der Titel des Softwareprojekts?",
+    "set": "",
+    "values": "Projekt Tasse1119"
+  },
+  {
+    "question": "In welche Anwendungsklasse wird die Software eingeordnet?",
+    "set": "",
+    "values": "Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gew\u00e4hrleisten. Sie ist die Grundlage f\u00fcr einen \u00dcbergang zum Produktstatus."
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"PO\"",
+    "values": "Person"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Entit\u00e4t\"",
+    "values": "Entit\u00e4t"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Rev\"",
+    "values": "Person"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"PO\"",
+    "values": "Adler"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Rev\"",
+    "values": "Berner"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"PO\"",
+    "values": "Andi"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Rev\"",
+    "values": "Bernhard"
+  },
+  {
+    "question": "Name",
+    "set": "Set \"Entit\u00e4t\"",
+    "values": "MPDL"
+  },
+  {
+    "question": "ORCID",
+    "set": "Set \"Rev\"",
+    "values": "1234-4123-4152-4521"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"PO\" Set #1",
+    "values": "Product Owner"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"Entit\u00e4t\" Set #1",
+    "values": "FBL"
+  },
+  {
+    "question": "Wann beginnt das Softwareprojekt?",
+    "set": "",
+    "values": "2026-11-26"
+  },
+  {
+    "question": "Wann endet das Softwareprojekt?",
+    "set": "",
+    "values": "2026-12-30"
+  }
+]
