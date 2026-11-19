@@ -1,0 +1,15 @@
+Wie lautet der Titel des Softwareprojekts?,,Projekt Tasse1119
+In welche Anwendungsklasse wird die Software eingeordnet?,,Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gewährleisten. Sie ist die Grundlage für einen Übergang zum Produktstatus.
+Typ,"Set ""PO""",Person
+Typ,"Set ""Entität""",Entität
+Typ,"Set ""Rev""",Person
+Familienname(n),"Set ""PO""",Adler
+Familienname(n),"Set ""Rev""",Berner
+Rufname(n),"Set ""PO""",Andi
+Rufname(n),"Set ""Rev""",Bernhard
+Name,"Set ""Entität""",MPDL
+ORCID,"Set ""Rev""",1234-4123-4152-4521
+Rolle,"Set ""PO"" Set #1",Product Owner
+Rolle,"Set ""Entität"" Set #1",FBL
+Wann beginnt das Softwareprojekt?,,2026-11-26
+Wann endet das Softwareprojekt?,,2026-12-30
