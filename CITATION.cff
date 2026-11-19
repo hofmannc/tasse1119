@@ -1,0 +1,13 @@
+
+    cff-version: 1.2.0
+    message: "If you use this software, please cite it as below."
+    title: 1119Tasse
+    type: software
+    authors:        
+        - family-names: Adler
+          given-names: Andi        
+        - name: MPDL        
+        - family-names: Berner
+          given-names: Bernhard
+          orcid: 1234-4123-4152-4521
+    date-released: 2026-12-30
